@@ -1,4 +1,4 @@
-package luchitha.model;
+package luchitha.springbootproject.employeemanager.model;
 
 import javax.persistence.*;
 import java.io.Serializable;
@@ -99,3 +99,4 @@ public class Employee implements Serializable {
     }
 
 }
+
